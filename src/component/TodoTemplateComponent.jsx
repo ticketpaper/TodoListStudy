@@ -11,6 +11,7 @@ export default class TodoTemplateComponent extends Component {
                 <InputTodoComponent/>
                 <TodoListComponent />
                 <TodoCountComponent />
+                
             </div>
         )
     }
